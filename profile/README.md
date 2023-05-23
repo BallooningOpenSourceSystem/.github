@@ -1,4 +1,6 @@
-## Hi there 👋
+## Ballooning Open Source System
+
+Launch your new ballooning or other suborbital project from here!
 
 <!--
 
